@@ -5390,6 +5390,10 @@ a.close.disabled {
   overflow: hidden;
   outline: 0;
 }
+.img-reduced-size {
+  width: 100%; /* Reducir al 50% del tamaño original */
+  height: 70%; /* Ajustar la altura automáticamente */
+}
 
 .modal-dialog {
   position: relative;
